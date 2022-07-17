@@ -5,4 +5,4 @@ This folder contains the test case excel and test video for the Jupiter Toys web
 
 There is also a google drive link for the test case excel: https://docs.google.com/spreadsheets/d/1QFPr8GUWRdvGMkEWuA-XBs0OaVeN5bXr/edit?usp=sharing&ouid=113289220603503195176&rtpof=true&sd=true
 ## Task 2
-This folder contains the challenge 1 folder and the challenge folder. All challenges use Javascript language, and in each challenge, there are several test scenarios to test functions.
+This folder contains the challenge 1 folder and the challenge 2 folder. All challenges use Javascript language, and in each challenge, there are several test scenarios to test functions.
