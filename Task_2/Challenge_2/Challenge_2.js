@@ -28,7 +28,7 @@ function challenge(word) {
     return maxOccurrenceCharacter;
 }
 
-// The function is tp test the challenge function using certain word
+// The function is to test the challenge function using certain word
 function testScenario() {
     const word = "Character";
     const maxOccurrenceCharacter = challenge(word);
